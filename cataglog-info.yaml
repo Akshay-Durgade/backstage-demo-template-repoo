@@ -3,12 +3,12 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: Mindstix-Demo
-  title: Test Action template
-  description: scaffolder v1beta2 template demo
+  title: GitHub Template Demo
+  description: Template for creating GitHub Repository
   annotations:
     backstage.io/time-saved: PT4H
 spec:
-  owner: backstage/techdocs-core
+  owner: akshayatwwe@gmail.com
   type: service
 
   # these are the steps which are rendered in the frontend with the form input
